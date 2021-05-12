@@ -8,4 +8,4 @@
 
 
 
-<img src="screenshot/screen01.png" width="300">  <img src="screenshot/screen02.png" width="300">  <img src="screenshot/screen03.png" width="300">
+<img src="screenshot/screen01.png" width="200">  <img src="screenshot/screen02.png" width="200">  <img src="screenshot/screen03.png" width="200">
