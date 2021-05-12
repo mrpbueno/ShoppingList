@@ -4,7 +4,7 @@ public class ShoppingList {
 
     private int id, quantity;
     private boolean status;
-    private Long price;
+    private Long price; // CurrencyEditText provides the getRawValue() method will return a Long value.
     private String name;
 
     public ShoppingList() {
