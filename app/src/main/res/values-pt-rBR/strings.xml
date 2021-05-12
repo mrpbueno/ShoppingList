@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primeiro fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Olá primeiro fragmento</string>
+    <string name="hello_second_fragment">Olá segundo fragmento. Arg: %1$s</string>
+    <string name="save">Salvar</string>
+    <string name="quantity">Quantidade</string>
+    <string name="enter_name">Insira o nome</string>
+    <string name="name">Nome</string>
+    <string name="warning">Aviso!</string>
+    <string name="delete_confirm">Tem certeza de que deseja excluir?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sim</string>
+    <string name="clear_all">Limpar tudo</string>
+    <string name="complete_all_fields">Por favor, preencha todos os campos</string>
+    <string name="price">Preço</string>
+</resources>
