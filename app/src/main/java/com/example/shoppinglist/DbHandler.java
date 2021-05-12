@@ -23,7 +23,6 @@ public class DbHandler extends SQLiteOpenHelper {
                 "status BOOLEAN " +
                 ")";
         db.execSQL(sql);
-        db.close();
     }
 
     @Override
